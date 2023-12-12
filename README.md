@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bltc-520&show_icons=true&locale=en&layout=compact" alt="bltc-520" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bltc-520&show_icons=true&locale=en" alt="bltc-520" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bltc-520&" alt="bltc-520" /></p>
