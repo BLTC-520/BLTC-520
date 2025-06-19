@@ -37,7 +37,7 @@ I love cats! 🐱
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with your actual link)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/har-sze-hao-422a61286/)) (replace with your actual link)
 - [Email](mailto:your.email@example.com)
 
 ---
