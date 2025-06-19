@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on [elizaOS](https://github.com/yourusername/elizaOS), a platform for AI-agent integration.
+I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Chainlink Chromion Hackathon integration with elizaOS, a platform for AI-agent integration with dApp.
 
 ---
 
@@ -28,7 +28,7 @@ I'm actively seeking opportunities in roles focused on AI-agents and Web3. If yo
 
 ## 😺 Fun Fact
 
-I love cats! 🐱
+I love cats! 🐱 (and I'm single still) 
 
 > "Stay hungry, Stay foolish."  
 > — Steve Jobs
@@ -37,7 +37,7 @@ I love cats! 🐱
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/har-sze-hao-422a61286/) (replace with your actual link)
+- [LinkedIn](https://www.linkedin.com/in/har-sze-hao-422a61286/)
 - [Email](szehaohar2@gmail.com)
 
 ---
