@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Chainlink Chromion Hackathon integration with elizaOS, a platform for AI-agent integration with dApp.
+I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Hedera's Hackathon on AI agents. 
 
 ---
 
