@@ -37,7 +37,7 @@ I love cats! 🐱 (and I'm single still)
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/har-sze-hao-422a61286/)
+- [LinkedIn](https://www.linkedin.com/in/har-sze-hao-b69497372)
 - [Email](szehaohar2@gmail.com)
 
 ---
