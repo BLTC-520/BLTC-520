@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Hedera's Hackathon on AI agents. 
+I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Hedera's Hackathon on AI agents and Agentic-RAG powered subsidy platform for government for my Final Year Project. (PoC) 
 
 ---
 
