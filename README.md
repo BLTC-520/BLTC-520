@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm learning GMXv2, a DeFi protocol and starting to know how swap, limit orders, those perp dex jargons :)) haha~ 
+I’m a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀
 
 ---
 
@@ -14,13 +14,18 @@ I'm a final-semester student at UTAR, passionate about Web3 technologies, smart 
 
 ## 🌱 Currently Learning
 
-- GMXv2 from Cyfrin Updraft (current)
-
+- **GMX Perpetuals Trading** through Cyfrin Updraft
+- Deepening knowledge of **DeFi protocols** and **debugging tx details** using Tenderly
 ---
 
 ## 🎯 Career Interests
 
-I'm actively seeking opportunities in roles focused on AI-agents, privacy-focused AI application (use of ZK) and Web3. If you have a position or collaboration in mind for hackathons, feel free to reach out!
+I’m seeking opportunities in roles related to:
+- AI-Agent Development
+- Privacy-Preserving AI (ZK, cryptography)
+- Web3 Engineering & DeFi Protocols
+
+**I’m also open to hackathons, collaborations, and research projects — always excited to build something meaningful with others.**
 
 ---
 
@@ -40,4 +45,4 @@ I love cats! 🐱 (and I'm single still)
 
 ---
 
-Thanks for visiting my profile!
+✨ Thanks for dropping by my profile — let’s connect and build the future of Web3 together! (Meow!)
