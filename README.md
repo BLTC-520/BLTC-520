@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm working on Agentic-RAG powered subsidy platform for government for my Final Year Project, just finished integrating zero knowledge proof in the project (happy! Planning to have a blog on Medium on this particular part... (to be continued). 
+I'm a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and integrating these with modern frontend frameworks. Currently, I'm learning GMXv2, a DeFi protocol and starting to know how swap, limit orders, those perp dex jargons :)) haha~ 
 
 ---
 
@@ -14,15 +14,13 @@ I'm a final-semester student at UTAR, passionate about Web3 technologies, smart 
 
 ## 🌱 Currently Learning
 
-- Advanced smart contract architectures (Solidity, EVM)
-- AI-agent design and orchestration
-- Groth16 Algorithm (a quadratic arithmetic program to be computed by a prover over elliptic curve points derived in a trusted setup, and quickly checked by a verifier.)
+- GMXv2 from Cyfrin Updraft (current)
 
 ---
 
 ## 🎯 Career Interests
 
-I'm actively seeking opportunities in roles focused on AI-agents, privacy-focused AI application and Web3. If you have a position or collaboration in mind for hackathons, feel free to reach out!
+I'm actively seeking opportunities in roles focused on AI-agents, privacy-focused AI application (use of ZK) and Web3. If you have a position or collaboration in mind for hackathons, feel free to reach out!
 
 ---
 
