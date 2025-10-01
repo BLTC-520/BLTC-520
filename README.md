@@ -6,9 +6,9 @@ I’m a final-semester student at UTAR, passionate about Web3 technologies, smar
 
 ## 👨‍💻 What I Do
 
-- **Web3 Development**: Building and deploying smart contracts, integrating blockchain with frontend applications.
-- **AI-Agent Integration**: Exploring the intersection of AI and decentralized systems through projects like elizaOS.
-- **Smart Contract Security**: Immerse myself into web3 sec world, ready to built and secure DeFi world 
+- **Web3 Development** – Building and deploying smart contracts, integrating blockchain with frontend applications.
+- **AI + Web3** – Exploring how AI agents (e.g., elizaOS) can interact with decentralized systems.
+- **Smart Contract Security** – Learning and practicing secure coding to build a safer DeFi ecosystem.
 
 ---
 
