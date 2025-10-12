@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m a final-semester student at UTAR, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀
+A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀
 
 ---
 
