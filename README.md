@@ -4,7 +4,7 @@ A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and 
 
 # "Currently Working" Section (update weekly)
 
-- I'm currently participate in **ETHOnline 2025** hosted by ETHGlobal with a project called **LangDAO**. 
+- I'm currently participating in **[ETHOnline 2025](https://ethglobal.com/events/ethonline2025)** hosted by **ETHGlobal**, with a project called **[LangDAO](https://aenhsaihan.github.io/langdao-ethonline2025/)**.
 - Third week of **Season 8 - School of Solana** hosted by Ackee Blockchain Security.
 
 ---
