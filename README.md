@@ -1,6 +1,11 @@
 # Hi there! 👋
 
-A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀
+A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀 
+
+# "Currently Working" Section (update weekly)
+
+- I'm currently participate in **ETHOnline 2025** hosted by ETHGlobal with a project called **LangDAO**. 
+- Third week of **Season 8 - School of Solana** hosted by Ackee Blockchain Security.
 
 ---
 
