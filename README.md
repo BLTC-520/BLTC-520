@@ -4,8 +4,14 @@ A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and 
 
 # "Currently Working" Section (update weekly)
 
-- Third week of **Season 8 - School of Solana** hosted by Ackee Blockchain Security.
-- Vibe Code a travelling app for my December Trip in Danang!
+- Fifth week of **Season 8 - School of Solana** hosted by Ackee Blockchain Security, ready to dive in some security-related topics!
+- Vibe Code a travelling website for my December Trip in Danang using Gemini 3! 
+
+# 🛠️ Recent Work
+
+Built a Solana Devnet webapp where users can publish, edit, and delete on-chain notes, while others can upvote or tip authors with SOL. It’s a lightweight social layer that lives fully on-chain.
+
+Live: [https://solanaonlineblog.vercel.app](https://solanaonlineblog.vercel.app)
 
 ---
 
@@ -21,6 +27,7 @@ A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and 
 
 - **GMX Perpetuals Trading** through Cyfrin Updraft
 - Deepening knowledge of **DeFi protocols** and **debugging tx details** using Tenderly
+- Solana/Anchor/Rust basics through School of Solana
 ---
 
 ## 🎯 Career Interests
