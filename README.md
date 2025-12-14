@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. Currently, I’m diving deep into **GMXv2** and exploring the mechanics of **perpetual DEXs** — swaps, limit orders, and everything in between. 🚀 
+A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. 
 
 # "Currently Working" Section (update weekly)
 
-- Fifth week of **Season 8 - School of Solana** hosted by Ackee Blockchain Security, ready to dive in some security-related topics!
-- Vibe Code a travelling website for my December Trip in Danang using Gemini 3! 
+- currently not working on anything fancy, searching my room to rent in Damansara...
+- combining my work for getting the ackee cert.
 
 # 🛠️ Recent Work
 
