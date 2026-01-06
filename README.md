@@ -1,11 +1,9 @@
 # Hi there! 👋
 
-A recent CompSci Grad, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. 
+Graduated, Employed, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. 
 
 # "Currently Working" Section (update weekly)
-
-- currently not working on anything fancy, searching my room to rent in Damansara...
-- combining my work for getting the ackee cert.
+- Currently working as a Java Dev at Zchwantech, a software solutions company.
 
 # 🛠️ Recent Work
 
@@ -25,7 +23,7 @@ Live: [https://solanaonlineblog.vercel.app](https://solanaonlineblog.vercel.app)
 
 ## 🌱 Currently Learning
 
-- **GMX Perpetuals Trading** through Cyfrin Updraft
+- Java Caffeine Cache and also system-level design, request and response body structure. 
 - Deepening knowledge of **DeFi protocols** and **debugging tx details** using Tenderly
 - Solana/Anchor/Rust basics through School of Solana
 ---
