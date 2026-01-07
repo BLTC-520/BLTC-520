@@ -2,9 +2,6 @@
 
 Graduated, Employed, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. 
 
-# "Currently Working" Section (update weekly)
-- Currently working as a Java Dev at Zchwantech, a software solutions company.
-
 # 🛠️ Recent Work
 
 Built a Solana Devnet webapp where users can publish, edit, and delete on-chain notes, while others can upvote or tip authors with SOL. It’s a lightweight social layer that lives fully on-chain.
