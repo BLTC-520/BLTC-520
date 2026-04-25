@@ -1,12 +1,16 @@
 # Hi there! 👋
 
-Graduated, Employed, passionate about Web3 technologies, smart contracts, and bridging blockchain with modern frontend frameworks. 
+My name is Brian, can call me Sze Hao as well! Passionated in latest AI, ZK, cryptography breakthrough and agentic systems working in production, curious about every single things in my life :) 
 
-# 🛠️ Recent Work
+Graduated from UTAR, which is an uni located in Kampar, Perak (a state in Malaysia), studied Computer Science as major, SELF-STUDY as minor (lol :)))) 
 
-Built a Solana Devnet webapp where users can publish, edit, and delete on-chain notes, while others can upvote or tip authors with SOL. It’s a lightweight social layer that lives fully on-chain.
+# 🛠️ Recent Work (updated 25/4) 
 
-Live: [https://solanaonlineblog.vercel.app](https://solanaonlineblog.vercel.app)
+Built a personality map based on GrabMaps, Google Places API with Bazil in GrabMaps Hackathon 2026 
+
+repo link here: [https://github.com/BLTC-520/Grab-Hackathon-2026](Grab_Personality_Map)
+
+Play it Live: [https://grab-hackathon-2026.vercel.app/](https://grab-hackathon-2026.vercel.app/)
 
 ---
 
