@@ -4,13 +4,11 @@ My name is Brian, can call me Sze Hao as well! Passionated in latest AI, ZK, cry
 
 Graduated from UTAR, which is an uni located in Kampar, Perak (a state in Malaysia), studied Computer Science as major, SELF-STUDY as minor (lol :)))) 
 
-# 🛠️ Recent Work (updated 25/4) 
+# 🛠️ Recent Work (updated 24/5) 
 
-Built a personality map based on GrabMaps, Google Places API with Bazil in GrabMaps Hackathon 2026 
+Secured Top 5 in Ralphthon SG! with a project called SnapRoom with Aditya and Bazil!!!
 
-repo link here: [https://github.com/BLTC-520/Grab-Hackathon-2026](Grab_Personality_Map)
-
-Play it Live: [https://grab-hackathon-2026.vercel.app/](https://grab-hackathon-2026.vercel.app/)
+repo link here: [https://github.com/adityaavr/snaproom](SnapRoom)
 
 ---
 
