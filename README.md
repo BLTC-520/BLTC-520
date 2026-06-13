@@ -4,11 +4,9 @@ My name is Brian, can call me Sze Hao as well! Passionated in latest AI, ZK, cry
 
 Graduated from UTAR, which is an uni located in Kampar, Perak (a state in Malaysia), studied Computer Science as major, SELF-STUDY as minor (lol :)))) 
 
-# 🛠️ Recent Work (updated 24/5) 
+# 🛠️ Recent Work (updated 13/6) 
 
-Secured Top 5 in Ralphthon SG! with a project called SnapRoom with Aditya and Bazil!!!
-
-repo link here: [https://github.com/adityaavr/snaproom](SnapRoom)
+Auditing Morpho's Midnight, current valid findings 2H, 1M, still searching for more and more.  
 
 ---
 
