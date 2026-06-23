@@ -27,7 +27,7 @@
 
 `🦄 BUILD` &nbsp; UHI10 **time-marketplace v4 hook** — bonding curve · optimistic escrow · dynamic Fair-Flow fees  
 `🔍 AUDIT` &nbsp; Morpho **Midnight** — **2H · 1M** valid findings, still digging  
-`🦀 LEARN` &nbsp; Rektoff **Solana Rust Security & Audit Bootcamp** (Cohort 4) — Rust core → Solana program model
+`🦀 LEARN` &nbsp; Rektoff **Solana Rust Security & Audit Bootcamp** (Cohort 5) — Rust core → Solana program model
 
 ---
 
@@ -36,9 +36,9 @@
 - 💼 **Software Engineer @ Zchwantech** — Java / Spring Boot backend for high-throughput enterprise systems
 - 🦄 Building a **time-marketplace Uniswap v4 hook** in **UHI10** (Uniswap Hook Incubator)
 - 🛡️ Competitive **smart-contract auditor** — currently on **Morpho Midnight** (2H · 1M valid findings)
-- 🦀 Leveling up **Rust + Solana security** through the **Rektoff** bootcamp (Cohort 4)
+- 🦀 Leveling up **Rust + Solana security** through the **Rektoff** bootcamp (Cohort 5)
 - 🏆 **2× hackathon winner** (SG 2026) · **Huawei ICT** National Champion — APAC & Global 3rd
-- 🌏 Malaysia (UTC+8) · B.CS (Hons), **UTAR** · building across 🇨🇳 / 🇹🇼 / 🇬🇧
+- 🌏 Malaysia (UTC+8) · B.CS (Hons), **UTAR** 
 
 ---
 
@@ -63,6 +63,15 @@ Turns messy labeled image datasets into **training-ready assets** — surfacing 
 `Rust` · `Anchor` · `Solana`
 
 On-chain blogging dApp built on the **Solana / Anchor** program model — my first deep dive into Solana program development (School of Solana, Season 8).
+
+---
+
+## 🌍 Open Source
+
+<!-- Append new contributions below, newest first. -->
+
+**[Auditware/AuditVault](https://github.com/Auditware/AuditVault)** &nbsp;⭐ 61&nbsp; — _Obsidian brain for smart contract auditing_
+- ✅ **[#1 · Per-sector audit checklist generator](https://github.com/Auditware/AuditVault/pull/1)** *(merged)* — a re-run-safe Node tool that aggregates the `vuln / trigger / impact / fix` taxonomy across **2,383 findings** into **34 ranked, data-driven checklists**, giving auditors a frequency-based prior on what actually breaks in each sector *before* they read the code.
 
 ---
 
