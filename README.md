@@ -37,7 +37,7 @@
 - 🦄 Building a **time-marketplace Uniswap v4 hook** in **UHI10** (Uniswap Hook Incubator)
 - 🛡️ Competitive **smart-contract auditor** — currently on **Morpho Midnight** (2H · 1M valid findings)
 - 🦀 Leveling up **Rust + Solana security** through the **Rektoff** bootcamp (Cohort 5)
-- 🏆 **2× hackathon winner** (SG 2026) · **Huawei ICT** National Champion — APAC & Global 3rd
+- 🏆 **3× hackathon winner** (2nd place in RalphthonSG, 5th place in PyCon2026) · **Huawei ICT** National Champion — APAC & Global 3rd
 - 🌏 Malaysia (UTC+8) · B.CS (Hons), **UTAR** 
 
 ---
