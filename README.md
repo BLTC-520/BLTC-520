@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Hi, I'm Brian 👋 <sub>(Sze Hao)</sub>
@@ -23,7 +25,7 @@
 
 ## 🛠️ Recent Work &nbsp;·&nbsp; <sub>updated 23 Jun 2026</sub>
 
-<!-- WEEKLY UPDATE: change the date above, then prepend / swap the 3 lines below. -->
+<!-- WEEKLY UPDATE: change the date above, then prepend or swap the 3 lines below. -->
 
 `🦄 BUILD` &nbsp; UHI10 **time-marketplace v4 hook** — bonding curve · optimistic escrow · dynamic Fair-Flow fees  
 `🔍 AUDIT` &nbsp; Morpho **Midnight** — **2H · 1M** valid findings, still digging  
